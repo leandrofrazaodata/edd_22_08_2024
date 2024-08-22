@@ -1,0 +1,11 @@
+{
+    "dbt.allowListFolders": [
+        "/workspace/edd_22_08_2024/env/teste_app"
+    ],
+    "files.associations": {
+        "*.yaml": "jinja-yaml",
+        "*.sql": "jinja-sql"
+    },
+    "dbt.enableNewLineagePanel": true,
+    "dbt.lineage.defaultExpansion": 2
+}
